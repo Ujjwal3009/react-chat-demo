@@ -18,7 +18,7 @@
 .header {
     font-weight: bold;
     font-size: 20px;
-    color: #203152;
+    color: white !important;
     background-color: #f5a623;
     padding: 20px;
     box-shadow: 0px 4px 4px #808888;
@@ -27,7 +27,7 @@
 /* Button login */
 
 .btnLogin {
-    background-color: #dd4b39;
+    background-color: red;
     border: none;
     color: white;
     padding: 10px;

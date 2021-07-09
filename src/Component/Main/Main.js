@@ -105,8 +105,8 @@ class Main extends Component {
                 <span className="textItem">{`Nickname: ${
                     item.data().nickname
                     }`}</span>
-                                <span className="textItem">{`About me: ${
-                                    item.data().aboutMe ? item.data().aboutMe : 'Not available'
+                                <span className="textItem">{`About : ${
+                                    item.data().aboutMe ? item.data().aboutMe : ' Available'
                                     }`}</span>
                             </div>
                         </button>
